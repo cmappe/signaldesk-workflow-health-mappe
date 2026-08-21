@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+webapp/node_modules/
+webapp/dist/
+webapp/.vinext/
+webapp/.wrangler/
+webapp/.env*
